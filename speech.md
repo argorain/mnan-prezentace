@@ -14,19 +14,17 @@
 ### Oděvy, rukavice a boty
 	
  - Všechny konstrukce od fy Gore-Tex mají podobnou konstrukci
- - Vrchní krycí vrstva
-  - krytí proti poškození a proti větru
- - Gore-Tex 
- - Podšívka
-	
- - 2 vrstvá konstrukce % Out+gore, inner
- - 3 vrstvá konstrukce % Out+gore+inner
- - Z-liner konstrukce % Out, gore, inner
- - LTD konstrukce % Out, gore+inner
-
+  - Vrchní krycí vrstva
+   - krytí proti poškození a proti větru
+  - Gore-Tex 
+  - Podšívka
+ - používané konstrukce pro oděvy	
+  - 2 vrstvá konstrukce % Out+gore, inner
+  - 3 vrstvá konstrukce % Out+gore+inner
+  - Z-liner konstrukce % Out, gore, inner
+  - LTD konstrukce % Out, gore+inner
  - rukavice mají navíc tepelnou izolaci mezi gore-tex a podšívkou
  - boty jsou z ztuženého gore-texu
-
  - vrchní krytí se liší odolností
 
 ### 2 vrstvá konstrukce
