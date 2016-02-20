@@ -14,8 +14,7 @@
 ### Oděvy, rukavice a boty
 	
  - Všechny konstrukce od fy Gore-Tex mají podobnou konstrukci
-  - Vrchní krycí vrstva
-   - krytí proti poškození a proti větru
+  - Vrchní krycí vrstva - krytí proti poškození a proti větru
   - Gore-Tex 
   - Podšívka
  - používané konstrukce pro oděvy	
